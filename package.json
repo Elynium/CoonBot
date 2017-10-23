@@ -7,5 +7,6 @@
   "start": "node bot.js"
   },
   "author": "Coon and Friends",
-  "dependencies": {"discord.js"}
+  "dependencies": {"discord.js": "11.1.0"
+  }
 }
