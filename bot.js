@@ -1,4 +1,6 @@
-
+var Discord = require('discord.io');
+var logger = require('winston');
+var auth = require('./auth.json');
 var questions = ['Kys','Yes','Maybe','No','Ask again','Fuck off cunt','Definitely','Probably'];
 
 
