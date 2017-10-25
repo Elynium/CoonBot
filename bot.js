@@ -1,3 +1,4 @@
+
 var Discord = require('discord.io');
 var logger = require('winston');
 var auth = require('./auth.json');
@@ -71,6 +72,5 @@ bot.on('message', function (user, userID, channelID, message, evt) {
 				to: channelID,
 				message:'REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE'
 			});	
-         }
      }
-
+     client.login(process.env.BOT_TOKEN);
