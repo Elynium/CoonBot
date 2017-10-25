@@ -4,5 +4,6 @@
   "description": "Rip Coon Bot",
   "main": "bot.js",
   "author": "Coon and Friends",
-  "dependencies": {}
+  "dependencies": {
+  "discord.io"}
 }
