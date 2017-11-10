@@ -6,7 +6,7 @@ const fs = require('fs');
 
 
 var voiceChannelID = '298853508298571798';
-var voicechannelID ='373222712505794560';
+
 var questions = ['Kys','Yes','Maybe','No','Ask again','Fuck off cunt','Definitely','Probably'];
 var rolls = ['1','2','3','4','5','6','7','8','9','10'];
 var scale = ['1','2','3','4','2','2','2','2'];
